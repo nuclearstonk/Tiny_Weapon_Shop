@@ -1,6 +1,7 @@
 ```
 Tiny Weapon Shop V0.1 Alpha
 
+go to the releases page on the right to find the most-up-to-date release
 the .zips above can be separately downloaded by clicking on one in the list,
 and then going to the right and pressing the download button
 
