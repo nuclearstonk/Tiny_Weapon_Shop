@@ -1,6 +1,8 @@
 ```
 Tiny Weapon Shop V0.1 Alpha
 
+the .zips above can be separately downloaded by clicking on one in the list,
+and then going to the right and pressing the download button between the 'Copy raw file' and 'Edit this file' buttons
 
 large weapon pack with weapons from a variety of nations from a variety of eras
 includes 340+ weapons from bombs to air-to-air missiles, all with the most accurate specifications that i can find
