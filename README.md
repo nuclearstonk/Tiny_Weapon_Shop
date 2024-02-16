@@ -1,31 +1,38 @@
 ```
-Tiny Weapon Shop V0.1 Alpha
+Tiny Weapon Shop V0.13 Alpha
 
 go to the releases page on the right to find the most-up-to-date release
 the .zips above can be separately downloaded by clicking on one in the list,
 and then going to the right and pressing the download button
 
 large weapon pack with weapons from a variety of nations from a variety of eras
-includes 240+ weapons from bombs to air-to-air missiles, all with the most accurate specifications that i can find
+includes 250+ weapons from bombs to air-to-air missiles, all with the most accurate specifications that i can find
 will include more weapons in the future with more functionality and documentation
 
 
-new features from AoF V0.11C:
-  PLAAF AAMs
-  Swedish AAMs
-  Falcon series of AAMs
-  GBU-15
-  new Mk8X bomb models
+new in 0.13:
+  AA-1 Alkali
+  AGM-84 Harpoon
+  BAe Sea Eagle
+  AS.34 Kormoran
+  AGM-130
+  CBU-103/87
+
+changed in 0.13:
+  sidewinders now have standardized (40G) G limits and somewhat better seeker range
+  sanity checks for russian IR missile seeker ranges
+  AIM-9B now has off-boresight mode at 28 degrees as per the manual
+  repainted a/g ordinance (with similar colors to AAMs instead of slightly off colors)
+  many other tweaks
 
 upcoming (in no particular order and not necessarily next update):
   yet more AAMs,
-  AGM-130,
   Soviet/Russian AGMs
   antiradiation missiles (pending game implementation)
   
 
 
-place \V.01 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
+place \V.013 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
 set up loadouts yourself or wait until Why485 adds customizable loadouts ingame, there are tutorials in the modding discord
 to ensure the mod loaded properly, check the ingame database to see if the AGM-65D has a transparent seeker dome
 if not, try re-installing the mod
