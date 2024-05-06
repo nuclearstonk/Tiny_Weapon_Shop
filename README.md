@@ -1,3 +1,4 @@
+![image](https://github.com/nuclearstonk/Tiny_Weapon_Shop/assets/158362012/c079012a-f876-4258-b85c-b37f72c158e5)
 ```
 Tiny Weapon Shop V0.3 Beta
 
