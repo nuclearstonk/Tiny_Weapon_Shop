@@ -1,28 +1,36 @@
 ```
-Tiny Weapon Shop V0.2 Beta
+Tiny Weapon Shop V0.3 Beta
 
 
 large weapon pack with weapons from a variety of nations from a variety of eras
-includes 260+ weapons from bombs to air-to-air missiles, all with the most accurate specifications that i can find
+includes 270+ weapons from bombs to air-to-air missiles, all with the most accurate specifications that i can find
 will include more weapons in the future with more functionality and documentation
 
 
-new in 0.2:
-  AGM-114 Hellfire
+new in 0.3:
+  Kh-23
+  FAB100/250/500
+  Skyflash series (plus Rb71
+  Aspide 1A/2/2A
+  AIM-120C5
+  probably something else i forgot
 
-changed in 0.2:
-  various tweaks to many AAMs and AGMs, notable adding "Responsiveness" to their jsons
-  "Responsiveness" is the curve in which a missile can pull its full G at a specific speed/altitude, more or less
-  increase in seeker range for R-60 series because it was too damn low for some reason
+changed/fixed in 0.3:
+  added CM resistance to sparrows
+  fixed AIM-54B motor
+  fixed AIM-120C having single pulse motor
+  better CM resistance for sidewinders past 9L
+  unborked R-60 again i think
+  there was another bug i fixed i think but i forgot what it was and who told me about it
 
 upcoming (in no particular order and not necessarily next update):
   yet more AAMs,
-  Soviet/Russian AGMs
+  soviet/russian AGMs
   antiradiation missiles (pending game implementation)
   
   
 
-place \V.02 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
+place \V.03 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
 set up loadouts yourself or wait until Why485 adds customizable loadouts ingame, there are tutorials in the modding discord
 to ensure the mod loaded properly, check the ingame database to see if the AGM-65D has a transparent seeker dome
 if not, try re-installing the mod
