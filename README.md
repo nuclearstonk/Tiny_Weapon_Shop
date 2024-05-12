@@ -1,6 +1,6 @@
 ![image](https://github.com/nuclearstonk/Tiny_Weapon_Shop/assets/158362012/c079012a-f876-4258-b85c-b37f72c158e5)
 ```
-Tiny Weapon Shop V0.3 Beta
+Tiny Weapon Shop V0.4 Beta
 
 
 large weapon pack with weapons from a variety of nations from a variety of eras
@@ -8,26 +8,19 @@ includes 270+ weapons from bombs to air-to-air missiles, all with the most accur
 will include more weapons in the future with more functionality and documentation
 
 
-new in 0.3:
-  Kh-23
-  FAB100/250/500
-  Skyflash series (plus Rb71
-  Aspide 1A/2/2A
-  AIM-120C5
-  probably something else i forgot
+new in 0.4:
+  AGM-45
+  AGM-78
+  (these work by being ARH missiles with very low effective ranges against anything but the high radar contrast SAMs in TSC, you wont be able to use this in other mods!)
 
-changed/fixed in 0.3:
-  added CM resistance to sparrows
-  fixed AIM-54B motor
-  fixed AIM-120C having single pulse motor
-  better CM resistance for sidewinders past 9L
-  unborked R-60 again i think
-  there was another bug i fixed i think but i forgot what it was and who told me about it
+changed/fixed in 0.4:
+  fixed MIM-72 alignment and materials
+
 
 upcoming (in no particular order and not necessarily next update):
   yet more AAMs,
   soviet/russian AGMs
-  antiradiation missiles (pending game implementation)
+  more antiradiation missiles
   
   
 
