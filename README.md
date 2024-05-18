@@ -1,32 +1,37 @@
 ![image](https://github.com/nuclearstonk/Tiny_Weapon_Shop/assets/158362012/c079012a-f876-4258-b85c-b37f72c158e5)
 ```
-Tiny Weapon Shop V0.4 Beta
+Tiny Weapon Shop V0.5 Beta
 
 
 large weapon pack with weapons from a variety of nations from a variety of eras
-includes 270+ weapons from bombs to air-to-air missiles, all with the most accurate specifications that i can find
+includes 300+ weapons,from bombs to air-to-air missiles, all with the most accurate specifications that i can find
 will include more weapons in the future with more functionality and documentation
 
 
-new in 0.4:
-  AGM-45
-  AGM-78
-  (these work by being ARH missiles with very low effective ranges against anything but the high radar contrast SAMs in TSC, you wont be able to use this in other mods!)
+new in 0.5:
+  Kh-25L/ML/MT/MP
+  KAB-500L/Kr
+  Red Top
+  Database entries for everything
+  an lingering thought that i should probably be paid for the work i do
 
-changed/fixed in 0.4:
-  fixed MIM-72 alignment and materials
-
+changed/fixed in 0.5:
+  added first test batch of missile proportionality (some missiles try to choose zero-effort terminal intercepts on maneuvering targets to take advantage of high G limits)
+  above change significantly helps certain more struggly limited/early all-aspect IR AAMs
+  renamed AIM-260B to a more correct AIM-160
+  significant seeker range and countermeasure resistance buff to R-60 series (they were massively underperforming sorry)
+  increases to soviet IR missile countermeasure resistance (soviet air forces made use of increased performance high intensity flares during testing, much more effective than NATO flares.)
+  rebalanced all A/G weapons to use TSC's standard (will remain relatively balanced against mods using a more vanilla approach)
+  huge rebalance to basically every IR weapon, tell me if things work better
 
 upcoming (in no particular order and not necessarily next update):
-  yet more AAMs,
-  soviet/russian AGMs
-  more antiradiation missiles
+  more weapons of all types
   
   
 
-place \V.03 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
+place \V0.5 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
 set up loadouts yourself or wait until Why485 adds customizable loadouts ingame, there are tutorials in the modding discord
-to ensure the mod loaded properly, check the ingame database to see if the AGM-65D has a transparent seeker dome
+to ensure the mod loaded properly, check the ingame database to see if you have over 10 pages of weapons
 if not, try re-installing the mod
 
 this mod has no dependencies, but several other mods rely on this mod being properly installed to function as intended
