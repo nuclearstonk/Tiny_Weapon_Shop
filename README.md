@@ -1,6 +1,6 @@
 ![image](https://github.com/nuclearstonk/Tiny_Weapon_Shop/assets/158362012/c079012a-f876-4258-b85c-b37f72c158e5)
 ```
-Tiny Weapon Shop V0.51 Beta
+Tiny Weapon Shop V0.6 Beta
 
 
 large weapon pack with weapons from a variety of nations from a variety of eras
@@ -8,19 +8,22 @@ includes 300+ weapons,from bombs to air-to-air missiles, all with the most accur
 will include more weapons in the future with more functionality and documentation
 
 
-new in 0.5:
-  AGM-122 Sidearm
-  AGM-88A HARM
+new in 0.6:
+  Nuclear freefall bombs (B57, B61, RN-28)
+  Kh-29L/T
+  R-77-1
 
-changed/fixed in 0.5:
-  some changes with AGM behavior
+changed/fixed in 0.6:
+  fix maverick kinematics
+  fix some other missiles drag characteristics
+  lots of little tweaks here and there
 
 upcoming (in no particular order and not necessarily next update):
   more weapons of all types
   
   
 
-place \V0.51 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
+place \V0.6 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
 set up loadouts yourself or wait until Why485 adds customizable loadouts ingame, there are tutorials in the modding discord
 to ensure the mod loaded properly, check the ingame database to see if you have over 10 pages of weapons
 if not, try re-installing the mod
@@ -47,10 +50,6 @@ and willingness to argue until one side shows data from physical books in a neat
 
 
 license:
-ask me (@nuclearstonk) on discord for permission to republish this mod, and ensure proper crediting of the original authors
-
-
-have fun! ^w^
 ask me (@nuclearstonk) on discord for permission to republish this mod, and ensure proper crediting of the original authors
 
 
