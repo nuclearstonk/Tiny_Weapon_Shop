@@ -1,6 +1,6 @@
 ![image](https://github.com/nuclearstonk/Tiny_Weapon_Shop/assets/158362012/c079012a-f876-4258-b85c-b37f72c158e5)
 ```
-Tiny Weapon Shop V0.61 Beta
+Tiny Weapon Shop V0.63 Beta
 
 
 large weapon pack with weapons from a variety of nations from a variety of eras
@@ -8,21 +8,24 @@ includes 300+ weapons,from bombs to air-to-air missiles, all with the most accur
 will include more weapons in the future with more functionality and documentation
 
 
-new in 0.61:
-  Pave Spike laser targeting pod
-  AAM-N-8 diamondback nuclear AAM
-  new launchers (check the LauncherList.txt!)
+new in 0.63:
+  nothing, again
 
-changed/fixed in 0.61:
-  fixed database bug with B-61
-  some other stuff idr lol
+changed/fixed in 0.63:
+  redone all of the air to air missiles jsons. all of them. highlights from this:
+   - every AAM has a stall speed and an optimum speed for maneuvering
+   - this means that missiles will not pull very well off the rails*
+   - *the exception is that TVC missiles are now much more responsive off the rails
+   - FOV now accurately and correctly inputted (this was being calculated incorrectly by me and ended up half of what it should)
+  nukes have less blast radius with higher blast damage
+  
 
 upcoming (in no particular order and not necessarily next update):
   more weapons of all types
   
   
 
-place \V0.61 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
+place \V0.63 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
 set up loadouts yourself or wait until Why485 adds customizable loadouts ingame, there are tutorials in the modding discord
 to ensure the mod loaded properly, check the ingame database to see if you have over 10 pages of weapons
 if not, try re-installing the mod
@@ -45,6 +48,12 @@ for sources of data for jsons, i primarily try to find research papers for the m
 then go to DCS/BMS forums if there's data possible, then secretprojects forum, then WT forums,
 then sites like globalsecurity.com/missilery.info, corroborated with DCS data values
 
+
+license:
+ask me (@nuclearstonk) on discord for permission to republish this mod, and ensure proper crediting of the original authors
+
+
+have fun! ^w^
 
 license:
 ask me (@nuclearstonk) on discord for permission to republish this mod, and ensure proper crediting of the original authors
