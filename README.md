@@ -1,23 +1,31 @@
 ![image](https://github.com/nuclearstonk/Tiny_Weapon_Shop/assets/158362012/c079012a-f876-4258-b85c-b37f72c158e5)
 ```
-Tiny Weapon Shop V0.63 Beta
+Tiny Weapon Shop V0.64 Beta
 
 
 large weapon pack with weapons from a variety of nations from a variety of eras
-includes 300+ weapons,from bombs to air-to-air missiles, all with the most accurate specifications that i can find
+includes 320+ weapons,from bombs to air-to-air missiles, all with the most accurate specifications that i can find
 will include more weapons in the future with more functionality and documentation
 
 
-new in 0.63:
-  nothing, again
+new in 0.64:
+  AIM-174B ERAAM
+  AIM-95 AGILE (and accompanying launcher tubes)
+  AIM-132 ASRAAM
+  AIM-2000 IRIS-T
+  AIM-7MH
+  AIM-9R
+  AIM-9M-9
+  R-73M
 
-changed/fixed in 0.63:
-  redone all of the air to air missiles jsons. all of them. highlights from this:
-   - every AAM has a stall speed and an optimum speed for maneuvering
-   - this means that missiles will not pull very well off the rails*
-   - *the exception is that TVC missiles are now much more responsive off the rails
-   - FOV now accurately and correctly inputted (this was being calculated incorrectly by me and ended up half of what it should)
-  nukes have less blast radius with higher blast damage
+changed/fixed in 0.64:
+  further tweaks of aero speed values for missiles
+  massive improvement in late sidewinder countermeasure resistance
+  massive improvement for all IIR seeker CM resistance
+  buff for AIM-9X seeker range
+  buff for R-73 countermeasure resistance and seeker range
+  most AAMs now have small explosion fx
+  low vis AAMs now have proper low-vis dot colors
   
 
 upcoming (in no particular order and not necessarily next update):
@@ -25,7 +33,7 @@ upcoming (in no particular order and not necessarily next update):
   
   
 
-place \V0.63 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
+place \V0.64 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
 set up loadouts yourself or wait until Why485 adds customizable loadouts ingame, there are tutorials in the modding discord
 to ensure the mod loaded properly, check the ingame database to see if you have over 10 pages of weapons
 if not, try re-installing the mod
@@ -48,12 +56,6 @@ for sources of data for jsons, i primarily try to find research papers for the m
 then go to DCS/BMS forums if there's data possible, then secretprojects forum, then WT forums,
 then sites like globalsecurity.com/missilery.info, corroborated with DCS data values
 
-
-license:
-ask me (@nuclearstonk) on discord for permission to republish this mod, and ensure proper crediting of the original authors
-
-
-have fun! ^w^
 
 license:
 ask me (@nuclearstonk) on discord for permission to republish this mod, and ensure proper crediting of the original authors
