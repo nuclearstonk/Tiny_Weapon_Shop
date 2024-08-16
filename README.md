@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6b19f182-eaae-4c06-8aa5-5545e290c9ce)
 ![image](https://github.com/nuclearstonk/Tiny_Weapon_Shop/assets/158362012/c079012a-f876-4258-b85c-b37f72c158e5)
 ```
-Tiny Weapon Shop V0.64 Beta
+Tiny Weapon Shop V0.7 Beta
 
 
 large weapon pack with weapons from a variety of nations from a variety of eras
@@ -9,24 +9,12 @@ includes 320+ weapons,from bombs to air-to-air missiles, all with the most accur
 will include more weapons in the future with more functionality and documentation
 
 
-new in 0.64:
-  AIM-174B ERAAM
-  AIM-95 AGILE (and accompanying launcher tubes)
-  AIM-132 ASRAAM
-  AIM-2000 IRIS-T
-  AIM-7MH
-  AIM-9R
-  AIM-9M-9
-  R-73M
+new in 0.7:
+  new model for AIM-9R
 
-changed/fixed in 0.64:
-  further tweaks of aero speed values for missiles
-  massive improvement in late sidewinder countermeasure resistance
-  massive improvement for all IIR seeker CM resistance
-  buff for AIM-9X seeker range
-  buff for R-73 countermeasure resistance and seeker range
-  most AAMs now have small explosion fx
-  low vis AAMs now have proper low-vis dot colors
+changed/fixed in 0.7:
+  weapon rework for 0.15
+  a/g weapons have new damage and pen values
   
 
 upcoming (in no particular order and not necessarily next update):
@@ -34,7 +22,7 @@ upcoming (in no particular order and not necessarily next update):
   
   
 
-place \V0.64 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
+place \V0.7 TWS\ within \Steam\steamapps\common\TinyCombatArena\Mods\ in your TCA directory
 set up loadouts yourself or wait until Why485 adds customizable loadouts ingame, there are tutorials in the modding discord
 to ensure the mod loaded properly, check the ingame database to see if you have over 10 pages of weapons
 if not, try re-installing the mod
