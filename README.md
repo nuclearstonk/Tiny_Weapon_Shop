@@ -1,3 +1,7 @@
+IMPORTANT NOTE: this mod is present on the steam workshop where it receives more frequent updates!
+https://steamcommunity.com/sharedfiles/filedetails/?id=3433472232
+subscribe to it on steam to have the best possible support! this mod will only receive infrequent updates from now on
+
 ![image](https://github.com/user-attachments/assets/6b19f182-eaae-4c06-8aa5-5545e290c9ce)
 ![image](https://github.com/nuclearstonk/Tiny_Weapon_Shop/assets/158362012/c079012a-f876-4258-b85c-b37f72c158e5)
 ```
